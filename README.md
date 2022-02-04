@@ -1,9 +1,10 @@
-### Comands
+### Tools
 
  - Grails 5.1.2
 
  - JDK 11
 
+### Comands
 
 ```bash
 ./grailsw war
