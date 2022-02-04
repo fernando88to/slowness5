@@ -1,0 +1,7 @@
+import slowness5.People
+
+model {
+	People people
+}
+
+json tmpl.people(people)

@@ -1,0 +1,8 @@
+import slowness5.People
+
+model {
+	Iterable<People> peopleList
+}
+
+json tmpl.people(peopleList ?: [])
+
